@@ -1,0 +1,22 @@
+/* Style: Minimo */
+
+body  { background: #fff; }
+
+#top { background-color: #000; }
+
+a:link, a:visited, .archive_header, .post p.tags a:hover, #tabs ul.wooTabs li a, .entry h3, h3.single, .tag_cloud a:hover, .nav-entries a:hover, .widget h3, .widget_woo_twitter .link-ancillary a, .recentblogposts-widget ul.pagination .entry a , .recentblogposts-widget ul.pagination-bottom a, h3.toggle, .social h3, #comments h3, #respond h3, h3.pagecom, h3.archive_year { color: #000; }
+
+.button:hover, .reply a:hover { color: #000 !important; }
+
+.nav a { color: #fff; }
+.nav a:hover, .nav li.current_page_item a, .nav li.current_page_parent a { color: #222 !important; }
+.nav li ul li a  { color:#555 !important; }
+
+.nav li.current_page_item, .nav li.current_page_parent, .nav a:hover, .nav li ul, .nav li.current_page_item a:hover, .nav li.current_page_parent a:hover { background: #fff; }
+
+#sidebar .widget, .widget_woo_twitter .tweet p { background: #f0f0f0; }
+
+#tabs ul.wooTabs li a { border-left: 1px dotted #fff; border-right: 1px dotted #fff; border-top: 1px dotted #fff; }
+#tabs ul.wooTabs li a.selected, #tabs ul.wooTabs li a:hover { border-bottom: 1px dotted #fff; }
+
+#commentform textarea:focus, #contact-page ol.forms input.txt:focus, #contact-page ol.forms textarea:focus, .gform_wrapper input:focus, .gform_wrapper .top_label input.large:focus, .gform_wrapper .top_label select.large:focus, .gform_wrapper .top_label textarea.textarea:focus { border-color: #eaeaea; }

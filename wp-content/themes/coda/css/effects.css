@@ -1,0 +1,32 @@
+/* CSS3 / Browser specific CSS */
+
+
+/* ROUND CORNERS */  
+.nav a , .nav li.current_page_item, .nav li.current_page_parent{ -moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; }
+
+#loopedSlider, #loopedSlider .slides div.slide img { -moz-border-radius: 10px; -webkit-border-radius: 10px; }
+#loopedSlider .slide-content { -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-topleft: 10px; -webkit-border-top-left-radius: 10px; }
+
+#sidebar .widget { -moz-border-radius: 8px; -webkit-border-radius: 8px; }
+.entry img, img.thumbnail, .adspace-widget img, .widget_woo_twitter .tweet p { -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+.widget_woo_flickr a img { -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+
+#comments  .avatar img, #contact-page ol.forms input.txt, #contact-page ol.forms textarea, #commentform label, #commentform input.txt, #commentform textarea, p.alert, p.download, p.info, p.note, p.tick, .gform_wrapper input, .gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea { -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+
+.post p.tags a, .tag_cloud a:hover, .small-edit { -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+
+.button, .button:visited, .reply a { -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+.button:hover, .reply a:hover { opacity:0.9; }
+
+.msgbox { -moz-border-radius: 10px; -webkit-border-radius: 10px; box-shadow: 5px 5px 5px #333; -moz-box-shadow: 5px 5px 5px #333; -webkit-box-shadow: 5px 5px 5px #333;}
+
+/* TEXT SHADOW */  
+.nav a, #navigation ul.rss li a, #logo .site-title a, #logo .site-description { text-shadow: 1px 1px 1px #000; }
+.nav a:hover, .nav li ul li a, .nav li.current_page_item a, .nav li.current_page_parent a { text-shadow: 1px 1px 1px #fff !important; }
+#loopedSlider .slide-content h2 a, #loopedSlider .slide-content .category a, #loopedSlider .slide-content .more a { text-shadow: 1px 1px 1px #222; }
+#loopedSlider .slide-content p { text-shadow: 1px 1px 1px #000; }
+#copyright, #credit { text-shadow: 1px 1px 1px #222; }
+
+/* BOX SHADOW */  
+.entry img:hover, img.thumbnail:hover { box-shadow:3px 3px 3px #ccc; -webkit-box-shadow:3px 3px 3px #ccc; -moz-box-shadow:3px 3px 3px #ccc; }
+.entry .wp-caption img:hover {box-shadow:0px 0px 0px #ccc !important; -webkit-box-shadow:0px 0px 0px #ccc !important; -moz-box-shadow:0px 0px 0px #ccc !important; }

@@ -1,0 +1,14 @@
+# file: themes
+# owner: apache
+# group: apache
+user::rwx
+group::r-x
+group:facebook:rwx
+mask::rwx
+other::r-x
+default:user::rwx
+default:group::r-x
+default:group:facebook:rwx
+default:mask::rwx
+default:other::r-x
+

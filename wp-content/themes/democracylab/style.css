@@ -1,0 +1,297 @@
+@import url("../twentytwelve/style.css");
+/*
+Theme Name:     democracyLab
+Theme URI:      http://democracylab.org
+Description:    Child theme for the Twenty Twelve Theme
+Author:         Ele Munjeli
+Author URI:     http://elemunjeli.com
+Template:       twentytwelve
+Version:        1.1
+*/
+html, body {
+  background: #e3eaf0;
+  color: #393742; }
+  html a, body a {
+    color: #006600; }
+    html a:visited, body a:visited {
+      color: #006600; }
+    html a:hover, body a:hover {
+      color: #99cc00; }
+
+/*clearfix*/
+.container:before,
+.container:after {
+  content: "";
+  display: table; }
+
+.container:after {
+  clear: both; }
+
+/* For IE 6/7 (trigger hasLayout) */
+.container {
+  zoom: 1; }
+
+body .site {
+  margin-top: 0;
+  max-width: 100%;
+  padding: 0;
+  box-shadow: none;
+  background: #e3eaf0; }
+
+.emphatic, .lastTxt ul, blockquote {
+  color: #7c7c82;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.7; }
+
+.site-header {
+  width: 100%;
+  background: #fff;
+  margin: 0;
+  padding: 0; }
+
+.site-content {
+  width: 73%; }
+
+hgroup, nav, .wrapper {
+  margin: 0 auto;
+  max-width: 960px;
+  max-width: 68.571428571rem; }
+
+img.header-image {
+  border-radius: 0;
+  box-shadow: none;
+  margin: 20px 0 0 0; }
+
+.join-button {
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 0 1px 2px #181830;
+  padding: 15px;
+  background: #009900;
+  background: -webkit-gradient(linear, left top, left bottom, from(#99cc00), to(#009900));
+  /* for webkit browsers */
+  background: -moz-linear-gradient(top, #99cc00, #009900);
+  cursor: pointer;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #e3eaf0;
+  float: right;
+  color: #fff;
+  margin-top: 25px;
+  font-size: 20px; }
+
+.join-button:hover {
+  background: -webkit-gradient(linear, left top, left bottom, from(#009900), to(#99cc00));
+  /* for webkit browsers */
+  background: -moz-linear-gradient(top, #009900, #99cc00);
+  cursor: pointer;
+  text-shadow: 0 -1px 1px #000; }
+
+.main-navigation {
+  margin-top: -30px;
+  background: url("http://democracylab.org/wp-content/themes/democracylab/images/nav-highlight.png") no-repeat;
+  border-bottom: #fff; }
+  .main-navigation .nav-menu {
+    margin-left: 300px; }
+  .main-navigation li {
+    margin: 0 14px 0 0;
+    margin: 0 1rem 0 0; }
+  .main-navigation li a {
+    font-size: 14px;
+    font-size: 1rem;
+    line-height: 2;
+    font-weight: 700;
+    color: #7c7c82;
+    padding: 3px 7px;
+    border: solid 1px transparent; }
+  .main-navigation li a:hover {
+    color: #181830;
+    background: #fff;
+    border-top: #f3f6f8; }
+  .main-navigation li ul li a {
+    line-height: 2;
+    padding: 7px;
+    padding: 0.5rem;
+    font-weight: 400;
+    border: none;
+    background: #f3f6f8; }
+  .main-navigation li ul li a:hover {
+    background: #fff;
+    color: #181830; }
+  .main-navigation ul.nav-menu {
+    border: none; }
+
+.widget-area {
+  width: 24%; }
+  .widget-area .widget {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; }
+    .widget-area .widget h3 {
+      margin: 0; }
+  .widget-area a {
+    color: #006600; }
+    .widget-area a:visited {
+      color: #006600; }
+    .widget-area a:hover {
+      color: #99cc00; }
+
+.title, .widget-title {
+  font-weight: 700;
+  font-size: 16px;
+  color: #181830;
+  line-height: 1.3; }
+
+.widget-title {
+  text-transform: uppercase; }
+
+.responseSpan {
+  color: #009900;
+  font-size: 24px;
+  letter-spacing: 1px; }
+
+.responseDiv {
+  text-align: right;
+  font-style: italic;
+  font-size: 16px;
+  color: #7c7c82; }
+
+
+.responseButton, .agree, .disagree {
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  margin-left: 20px; }
+
+.agree {
+  width: 85px;
+  background: #009900;
+  background: -webkit-gradient(linear, left top, left bottom, from(#99cc00), to(#009900));
+  /* for webkit browsers */
+  background: -moz-linear-gradient(top, #99cc00, #009900);
+  cursor: pointer; }
+  .agree:hover {
+    background: #99cc00;
+    background: -webkit-gradient(linear, left top, left bottom, from(#009900), to(#99cc00));
+    /* for webkit browsers */
+    background: -moz-linear-gradient(top, #009900, #99cc00);
+    cursor: pointer;
+    color: #fff; }
+
+.disagree {
+  width: 85px;
+  background: #ffcc66;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffcc66), to(#f7853a));
+  /* for webkit browsers */
+  background: -moz-linear-gradient(top, #ffcc66, #f7853a);
+  cursor: pointer; }
+  .disagree:hover {
+    background:#f7853a;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f7853a), to(#ffcc66));
+    /* for webkit browsers */
+    background: -moz-linear-gradient(top, #f7853a, #ffcc66);
+    cursor: pointer;
+    color: #fff; }
+
+.homePageTxt, #einstein, .homeTxt, .lastTxt {
+  line-height: 1.7; }
+
+#einstein {
+  margin-top: 20px;
+  position: relative; }
+
+.homeTxt {
+  float: left;
+  width: 240px; }
+  .homeTxt p {
+    margin-bottom: 20px; }
+
+.lastTxt ul {
+  margin: 20px 0 20px 0;
+  text-indent: 40px; }
+
+.circleImg {
+  height: 200px;
+  width: 200px;
+  background: url("http://democracylab.org/wp-content/themes/democracylab/images/einstein-dlab.jpg");
+  border: 20px solid #fff;
+  border-radius: 120px;
+  margin-right: 20px;
+  float: left;
+  text-indent: -9999px; }
+
+#einsteinTxt {
+  float: right;
+  position: absolute;
+  top: 0;
+  left: 260px; }
+
+blockquote {
+  background: url("http://democracylab.org/wp-content/themes/democracylab/images/blockquote.png") no-repeat 0 12px;
+  margin: 10px 0px;
+  padding: 10px 20px 10px 50px; }
+
+#democro {
+  margin-top: 50px; }
+
+#democracule-div {
+  width: 400px;
+  height: 400px;
+  float: right;
+  background: #e3eaf0;
+  position: relative; }
+
+.democRing {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background: #fff;
+  border: 10px solid #f7853a;
+  -moz-border-radius: 75px;
+  -webkit-border-radius: 75px;
+  border-radius: 75px;
+  text-align: center;
+  z-index: 3;
+  cursor: pointer; }
+
+#citDiv {
+  top: 0px;
+  left: 140px; }
+
+#proDiv {
+  top: 170px;
+  left: 140px; }
+
+#creDiv {
+  top: 280px;
+  left: 280px; }
+
+#donDiv {
+  top: 280px;
+  left: 0; }
+
+.democTxt {
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.2;
+  margin-top: 40px; }
+
+.demDesc {
+  font-size: 20px;
+  font-weight: 700;
+  color: #7c7c82;
+  width: 70%;
+  margin: 20px auto 0 auto;
+  line-height: 1.7; }

@@ -1,0 +1,833 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: coda/includes/theme-functions.php:62
+msgid " Older Entries &raquo;"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-featuredmedia.php:64
+#: coda/template-timeline.php:68
+#: coda/archive.php:41
+#: coda/includes/widgets/widget-woo-recentposts.php:38
+msgid "% comments"
+msgstr ""
+
+#. Text in function
+#: coda/includes/theme-functions.php:61
+msgid "&laquo; Newer Entries "
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-twitter.php:75
+msgid "(comma seperated)"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-featuredmedia.php:64
+#: coda/template-timeline.php:68
+#: coda/archive.php:41
+#: coda/includes/widgets/widget-woo-recentposts.php:38
+msgid "0 comments"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-featuredmedia.php:64
+#: coda/template-timeline.php:68
+#: coda/archive.php:41
+#: coda/includes/widgets/widget-woo-recentposts.php:38
+msgid "1 comment"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:59
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:100
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-adspace.php:57
+msgid "Ad Code:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-postmeta.php:28
+msgid "Add to delicious"
+msgstr ""
+
+#. Text in echo
+#: coda/functions/admin-custom-nav.php:2367
+msgid "Advanced Options:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:84
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: coda/footer.php:11
+msgid "All Rights Reserved."
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-adspace.php:70
+msgid "Alt text:"
+msgstr ""
+
+#. Text in echo
+#: coda/archive.php:9
+#: coda/archive.php:12
+#: coda/archive.php:15
+#: coda/archive.php:18
+msgid "Archive"
+msgstr ""
+
+#. Text in echo
+#: coda/archive.php:21
+msgid "Archive by Author"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-featuredmedia.php:104
+msgid "Audio Tag:"
+msgstr ""
+
+#. Text in function
+#: coda/functions/admin-functions.php:857
+msgid "Author Archives"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:55
+msgid "Bio:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-recentposts.php:75
+msgid "Blog Category:"
+msgstr ""
+
+#. Text in echo
+#: coda/template-archives.php:27
+#: coda/template-sitemap.php:23
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: coda/functions/admin-functions.php:857
+msgid "Category Archive"
+msgstr ""
+
+#. Text in echo
+#: coda/page.php:22
+#: coda/template-sitemap.php:44
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: coda/search.php:29
+msgid "Comments { % }"
+msgstr ""
+
+#. Text in function
+#: coda/search.php:29
+msgid "Comments { 0 }"
+msgstr ""
+
+#. Text in function
+#: coda/search.php:29
+msgid "Comments { 1 }"
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "Contact Form Submission from "
+msgstr ""
+
+#. Text in echo
+#: coda/footer.php:21
+msgid "Designed by"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-postmeta.php:29
+msgid "Digg it!"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/theme-comments.php:20
+msgid "Direct link to this comment"
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:137
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#. Text in function
+#: coda/single.php:21
+#: coda/page.php:17
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:151
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: coda/header.php:47
+msgid "Enter keywords..."
+msgstr ""
+
+#. Text in echo
+#: coda/404.php:8
+msgid "Error 404 - Page not found!"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:48
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-twitter.php:87
+msgid "Follow Link:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-twitter.php:91
+msgid "Follow Text:"
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "From: "
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:67
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:63
+msgid "Gravatar Size:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:63
+msgid "Group"
+msgstr ""
+
+#. Text in echo
+#: coda/header.php:69
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:85
+msgid "Home only"
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:165
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-adspace.php:62
+msgid "Image Url:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-featuredmedia.php:100
+msgid "Images Tag:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:69
+msgid "Latest"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-accordion.php:23
+msgid "Latest Posts"
+msgstr ""
+
+#. Text in function
+#: coda/comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: coda/comments.php:66
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:69
+msgid "Left"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-twitter.php:79
+msgid "Limit:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-adspace.php:66
+msgid "Link URL:"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:82
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:82
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:82
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:93
+msgid "Mail (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:77
+msgid "Medium"
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:158
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: coda/functions/admin-functions.php:857
+msgid "Monthly Archive"
+msgstr ""
+
+#. Text in echo
+#: coda/template-archives.php:33
+msgid "Monthly Archives"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:88
+#: coda/template-contact.php:144
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "Name: $name \\n\\nEmail: $email \\n\\nComments: $comments"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:50
+msgid "No comments yet."
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-featuredmedia.php:92
+#: coda/includes/widgets/widget-woo-recentposts.php:71
+msgid "Number of Posts:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-accordion.php:60
+msgid "Number of posts:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:52
+msgid "Number:"
+msgstr ""
+
+#. Text in echo
+#: coda/template-sitemap.php:17
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:23
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/featured.php:53
+msgid "Please setup Featured Panel tag(s) in your options panel. You must setup tags that are used on active posts."
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-accordion.php:30
+msgid "Popular Posts"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-postmeta.php:37
+msgid "Post Meta"
+msgstr ""
+
+#. Text in echo
+#: coda/single.php:18
+#: coda/archive.php:38
+msgid "Posted by"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-featuredmedia.php:63
+#: coda/includes/widgets/widget-woo-recentposts.php:37
+msgid "Posted on "
+msgstr ""
+
+#. Text in echo
+#: coda/template-sitemap.php:29
+msgid "Posts per category"
+msgstr ""
+
+#. Text in echo
+#: coda/footer.php:21
+msgid "Powered by"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-postmeta.php:42
+msgid "Print this article"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:70
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-twitter.php:83
+msgid "Rate:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:74
+msgid "Read More Text (optional):"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:78
+msgid "Read More URL (optional):"
+msgstr ""
+
+#. Text in echo
+#: coda/search.php:28
+msgid "Read full story"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-accordion.php:37
+msgid "Recent Comments"
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "Reply-To: "
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:70
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: coda/search-form.php:4
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: coda/functions/admin-functions.php:857
+msgid "Search Results"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-twitter.php:75
+msgid "Search String:"
+msgstr ""
+
+#. Text in echo
+#: coda/search.php:8
+msgid "Search results"
+msgstr ""
+
+#. Text in echo
+#: coda/search-form.php:3
+msgid "Search..."
+msgstr ""
+
+#. Text in echo
+#: coda/functions/admin-custom-nav.php:2332
+msgid "Select Menu:"
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:164
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-postmeta.php:27
+msgid "Share on facebook"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-postmeta.php:41
+msgid "Share with friends"
+msgstr ""
+
+#. Text in echo
+#: coda/functions/admin-custom-nav.php:2415
+msgid "Show Top Level Descriptions:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:86
+msgid "Single only"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:74
+msgid "Size:"
+msgstr ""
+
+#. Text in echo
+#: coda/single.php:60
+#: coda/page.php:28
+#: coda/template-tags.php:27
+#: coda/search.php:37
+#: coda/template-fullwidth.php:27
+#: coda/archive.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:67
+msgid "Sorting:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:76
+msgid "Square"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-postmeta.php:30
+msgid "Stumble upon it"
+msgstr ""
+
+#. Text in echo
+#: coda/header.php:82
+msgid "Subcribe by Email"
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:166
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:107
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in echo
+#: coda/header.php:84
+msgid "Subscribe to RSS feed"
+msgstr ""
+
+#. Text in function
+#: coda/functions/admin-functions.php:857
+msgid "Tag Archive"
+msgstr ""
+
+#. Text in echo
+#: coda/archive.php:24
+msgid "Tag Archives:"
+msgstr ""
+
+#. Text in echo
+#: coda/functions/admin-custom-nav.php:2435
+msgid "The Custom Menu has not been configured correctly.  Please check your theme settings before adding this widget."
+msgstr ""
+
+#. Text in echo
+#: coda/template-archives.php:17
+msgid "The Last 30 Posts"
+msgstr ""
+
+#. Text in echo
+#: coda/404.php:9
+msgid "The page you trying to reach does not exist, or has been moved.<br/>Please use the menus or the search box to find what you are looking for."
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:133
+msgid "There was an error submitting the form."
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:78
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-accordion.php:65
+msgid "Thumbnail Size (0=disable):"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-featuredmedia.php:88
+#: coda/includes/widgets/widget-woo-adspace.php:53
+#: coda/includes/widgets/widget-woo-recentposts.php:67
+msgid "Title (optional):"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-search.php:33
+#: coda/includes/widgets/widget-woo-twitter.php:71
+#: coda/functions/admin-custom-nav.php:2358
+#: coda/includes/widgets/widget-woo-blogauthor.php:51
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-postmeta.php:26
+msgid "Tweet this"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:60
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-flickr.php:62
+msgid "User"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-featuredmedia.php:96
+msgid "Videos Tag:"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-recentposts.php:47
+msgid "View more posts"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/widgets/widget-woo-blogauthor.php:82
+msgid "Visible Pages:"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:98
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-accordion.php:1
+msgid "Woo - Accordion (Homepage)"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-adspace.php:1
+msgid "Woo - Adspace Widget"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-blogauthor.php:1
+msgid "Woo - Blog Author Info"
+msgstr ""
+
+#. Text in function
+#: coda/functions/admin-custom-nav.php:1991
+msgid "Woo - Custom Nav Menu"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-featuredmedia.php:1
+msgid "Woo - Featured Media (Homepage)"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-flickr.php:1
+msgid "Woo - Flickr"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-twitter.php:1
+msgid "Woo - Live Twitter (Homepage)"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-postmeta.php:1
+msgid "Woo - Post Meta"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-recentposts.php:1
+msgid "Woo - Recent Blog Posts (Homepage)"
+msgstr ""
+
+#. Text in function
+#: coda/includes/widgets/widget-woo-search.php:1
+msgid "Woo - Search"
+msgstr ""
+
+#. Text in echo
+#: coda/functions/admin-custom-nav.php:2387
+msgid "Wrap in container DIV:"
+msgstr ""
+
+#. Text in echo
+#: coda/functions/admin-custom-nav.php:2400
+msgid "Wrap in container UL:"
+msgstr ""
+
+#. Text in function
+#: coda/functions/admin-functions.php:857
+msgid "Yearly Archive"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:103
+msgid "You can use these tags"
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "You emailed "
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:90
+msgid "You entered an invalid"
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "You entered an invalid email address."
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:83
+msgid "You forgot to enter your"
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#. Text in function
+#: coda/template-contact.php:7
+msgid "You forgot to enter your name."
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:74
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/theme-comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: coda/template-contact.php:118
+msgid "Your email was successfully sent."
+msgstr ""
+
+#. Text in echo
+#: coda/includes/theme-comments.php:19
+msgid "at"
+msgstr ""
+
+#. Text in echo
+#: coda/search.php:18
+msgid "by"
+msgstr ""
+
+#. Text in echo
+#: coda/template-archives.php:23
+msgid "comments"
+msgstr ""
+
+#. Text in echo
+#: coda/single.php:20
+#: coda/search.php:20
+#: coda/archive.php:40
+msgid "in"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:74
+msgid "logged in"
+msgstr ""
+
+#. Text in echo
+#: coda/single.php:19
+#: coda/search.php:19
+#: coda/archive.php:39
+msgid "on"
+msgstr ""
+
+#. Text in echo
+#: coda/includes/theme-functions.php:145
+#: coda/includes/theme-functions.php:146
+msgid "on "
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:93
+msgid "required"
+msgstr ""
+
+#. Text in echo
+#: coda/comments.php:74
+msgid "to post a comment."
+msgstr ""

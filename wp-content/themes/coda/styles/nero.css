@@ -1,0 +1,13 @@
+/* Style: Nero */
+
+body  { background: #f0f0f0; }
+
+#top { background-color: #000; }
+
+a:link, a:visited, .archive_header, .post p.tags a:hover, #tabs ul.wooTabs li a, .entry h3, h3.single, .tag_cloud a:hover, .nav-entries a:hover, .widget h3, .widget_woo_twitter .link-ancillary a, .recentblogposts-widget ul.pagination .entry a , .recentblogposts-widget ul.pagination-bottom a, h3.toggle, .social h3, #comments h3, #respond h3, h3.pagecom, h3.archive_year { color: #000; }
+
+.button:hover, .reply a:hover { color: #000 !important; }
+
+.nav a { color: #fff; }
+.nav a:hover, .nav li.current_page_item a, .nav li.current_page_parent a { color: #222 !important; }
+.nav li ul li a  { color:#555 !important; }

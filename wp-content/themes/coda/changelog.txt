@@ -1,0 +1,47 @@
+*** Coda Changelog ***
+
+2011.09.18 - version 1.0.12
+ * archive.php - Added a fix for the Show Full Content Archive setting.
+ * template-blog.php - Added a fix for the Show Full Content Archive setting.
+ * search.php - Added a fix for the Show Full Content Archive setting.
+
+
+2011.09.16 - version 1.0.11
+ * /includes/theme-options.php - Added value to the "None" option for the "Display Comments" theme option, to make sure "None" is preserved when options are saved.
+
+2011.03.20 - version 1.0.10
+ * /includes/widgets/widget-woo-recentposts.php - Enabled the scanning of subcategories as well as the main category for posts, to mimic the use of the "cat" parameter.
+
+2011.03.15 - version 1.0.9
+ * /includes/widgets/widget-woo-recentposts.php - Enhanced Recent Posts widget to include sticky posts support, code optimisation and "top" and "bottom" action hooks.
+
+2010.08.18 - version 1.0.8
+ * featured.php  - updated to allow users to set featured image dimensions
+ * theme-functions.php - updated to allow users to set featured image dimensions
+ * theme-options.php - updated to allow users to set featured image dimensions
+
+2010.08.17 - version 1.0.7
+ * style.css - updated .nav anchor color to not change when setting custom link color
+
+2010.08.10 - version 1.0.6
+ * includes/widgets/woo-widget-recentposts.php - added image thumbnails
+ * includes/featured.php - Skip posts that don't have an image
+
+2010.07.15 - version 1.0.5
+ * includes/theme-widgets.php - Fixed bug with theme previewing
+
+2010.07.09 - version 1.0.4
+ * includes/widgets/widget-recentposts.php - Fixed bug if user did not select Blog Category in widget options
+	
+2010.06.25 - version 1.0.3
+ * style.css - Fixed media widget text wrapping issue
+ * /includes/widgets/widget-woo-featuredmedia.php - Fixed media widget text wrapping issue
+
+2010.06.25 - version 1.0.2
+ * single.php - Added function to hide tabs when comments are closed.
+
+2010.06.23 - version 1.0.1
+ * style.css - Added paragraph spacing
+
+2010.xx.xx - version 1.0
+ * First release!

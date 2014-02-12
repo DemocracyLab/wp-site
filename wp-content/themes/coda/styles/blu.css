@@ -1,0 +1,24 @@
+/* Style: Blu */
+
+body { background: #e3eaf0; }
+
+#top { background-color: #181830; }
+
+a:link, a:visited, .archive_header, .post p.tags a:hover, #tabs ul.wooTabs li a, .entry h3, h3.single, .tag_cloud a:hover, .nav-entries a:hover, .widget h3, .widget_woo_twitter .link-ancillary a, .recentblogposts-widget ul.pagination .entry a , .recentblogposts-widget ul.pagination-bottom a, h3.toggle, .social h3, #comments h3, #respond h3, h3.pagecom, h3.archive_year { color: #181830; }
+
+.button:hover, .reply a:hover { color: #181830 !important; }
+
+.nav a { color: #fff; }
+.nav a:hover, .nav li.current_page_item a, .nav li.current_page_parent a { color: #222 !important; }
+.nav li ul li a  { color:#555 !important; }
+
+.nav li.current_page_item, .nav li.current_page_parent, .nav a:hover, .nav li ul, .nav li.current_page_item a:hover, .nav li.current_page_parent a:hover { background: #e3eaf0; }
+
+.nav li ul li.current_page_item, .nav li ul li.current_page_item a:hover, .nav li ul li a:hover { background: #cfdae3 !important; }
+
+#tabs ul.wooTabs li a { border-left: 1px dotted #e3eaf0; border-right: 1px dotted #e3eaf0; border-top: 1px dotted #e3eaf0; }
+#tabs ul.wooTabs li a.selected, #tabs ul.wooTabs li a:hover { border-bottom: 1px dotted #e3eaf0; }
+
+#commentform textarea, #contact-page ol.forms input.txt, #contact-page ol.forms textarea, .gform_wrapper input, .gform_wrapper .top_label input.large, .gform_wrapper .top_label select.large, .gform_wrapper .top_label textarea.textarea { background: #cfdae3; border-color: #cfdae3; }
+
+#commentform textarea:focus, #contact-page ol.forms input.txt:focus, #contact-page ol.forms textarea:focus, .gform_wrapper input:focus, .gform_wrapper .top_label input.large:focus, .gform_wrapper .top_label select.large:focus, .gform_wrapper .top_label textarea.textarea:focus { border-color: #fff; }
